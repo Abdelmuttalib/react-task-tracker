@@ -1,5 +1,5 @@
 # Simple React Task Tracker App
-![Screenshot (2)](https://user-images.githubusercontent.com/54845047/118724631-ae05b180-b7e3-11eb-8632-8baf00af265d.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/54845047/118724838-fae98800-b7e3-11eb-8144-f97af56c20ca.png)
 
 
 
